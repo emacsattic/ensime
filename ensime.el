@@ -1,7 +1,8 @@
 ;;; ensime.el --- ENhanced Scala Interaction Mode for Emacs
 
 ;; Copyright (C) 2003 - 2015 the SLIME and ENSIME authors
-;; License: http://www.gnu.org/licenses/gpl.html
+;; License: GPL-3
+;;   (Also see http://www.gnu.org/licenses/gpl.html.)
 
 ;; Homepage: https://github.com/ensime/ensime-emacs
 ;; Keywords: languages
